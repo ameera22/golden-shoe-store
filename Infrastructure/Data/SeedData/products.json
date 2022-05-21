@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "Manolo Blahnik Hangisi Champagne Satin Jewel Buckle Pumps",
+    "Description": "Champagne satin almond toe pumps with stiletto high heel.",
+    "Price": 875,
+    "PictureUrl": "images/products/heel1.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Nike Dunk Low",
+    "Description": "Blue and white trainer with durable leather in classic shape.",
+    "Price": 100,
+    "PictureUrl": "images/products/trainer1.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Dr Martens 1460 Smooth Black Leather Boots",
+    "Description": "High quality black leather upper with glossy finish.",
+    "Price": 149,
+    "PictureUrl": "images/products/boots1.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Birkenstock Arizona Big Buckle White",
+    "Description": "Classic shape with elegant pin buckle with high quality natural leather",
+    "Price": 125,
+    "PictureUrl": "images/products/sandal1.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Ugg Classic Short Chestnut",
+    "Description": "Soft sheepskin boots in chestnut colour.",
+    "Price": 165,
+    "PictureUrl": "images/products/boots2.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Converse Chuck Taylor All Star White",
+    "Description": "Low top signature Converse trainer with lace rubber toe cap.",
+    "Price": 55,
+    "PictureUrl": "images/products/trainer2.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 6
+  }
+]
